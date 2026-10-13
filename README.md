@@ -6,9 +6,10 @@
 #
 The projects in this portfolio are intentionally designed to simulate the real workflows of an IT Systems Support Technician professional working in enterprise environments.
 
-Each project focuses on practical security tasks such as identity lifecycle automation, RBAC design, access governance, privileged access management, and integration between systems like Active Directory, Okta, and Microsoft Entra ID.
+Sysdesk Help Desk Ticketing System
+Built and operated a complete ticketing environment using Sysdesk to simulate real Help Desk / Service Desk workflows. Configured the system with appropriate categories, priority levels, SLAs, and assignment rules. Handled a series of realistic support tickets covering Windows troubleshooting, Active Directory, Microsoft 365, networking, and hardware issues. Every ticket includes structured notes, root-cause analysis, resolution steps, and verification evidence.
 
-The goal is to demonstrate how a security engineer designs, automates, and manages identity systems at scale, using scripting, identity platforms, and security best practices to enforce consistent access control across hybrid environments.
+This project demonstrates practical skills in ticket management, structured troubleshooting, technical documentation, SLA awareness, and professional customer communication—core competencies for IT Support and Help Desk roles.
 # Sysdesk Help Desk Ticketing System
 
 Hands-on IT Support portfolio project demonstrating the setup, configuration, and day-to-day operation of a professional ticketing system.
