@@ -55,8 +55,6 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 ### SLA / Priority Configuration
 ![SLA Config](screenshots/05-sla-config.png)
 
-*(Add more screenshots as needed — e.g., assignment rules, knowledge base articles, reporting views, etc.)*
-
 ## Sample Ticket Summary
 
 | Ticket ID | Issue Type              | Priority | Status   | Key Actions Taken                          |
@@ -66,7 +64,6 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 | INC-003   | Network Drive Mapping   | Medium   | Resolved | Checked permissions, remapped drive        |
 | ...       | ...                     | ...      | ...      | ...                                        |
 
-*(Expand this table or link to individual ticket files in the `/tickets` folder if you have them.)*
 
 ## Key Takeaways
 
