@@ -41,7 +41,7 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 ## Screenshots
 
 ### Sysdesk Dashboard & Overview
-![Dashboard](screenshots/01-dashboard.png)
+![Dashboard](https://github.com/odago/Francis-O.-Asembo/blob/2dab5e6d9b694492f95f9e4a5836c862c20afe42/desktop%20background%20solution.png)
 
 ### Ticket Creation & Categorization
 ![Ticket Creation](screenshots/02-ticket-creation.png)
