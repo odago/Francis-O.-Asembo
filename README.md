@@ -44,7 +44,7 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 ![Dashboard](https://github.com/odago/Francis-O.-Asembo/blob/2dab5e6d9b694492f95f9e4a5836c862c20afe42/desktop%20background%20solution.png)
 
 ### Ticket Creation & Categorization
-![Ticket Creation](screenshots/02-ticket-creation.png)
+![Ticket Creation](https://github.com/odago/Francis-O.-Asembo/blob/e49ad085fa997779b4eb74c8e097eea01552a887/Screenshot%202026-09-29%20171539.png)
 
 ### Detailed Ticket View with Notes & Status Updates
 ![Ticket Details](https://github.com/odago/Francis-O.-Asembo/blob/3840127570e81d1fcf523e19a6654551565a6d90/Screenshot%202026-09-29%20171725.png)
