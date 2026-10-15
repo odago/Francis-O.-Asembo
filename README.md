@@ -8,7 +8,7 @@ The projects in this portfolio are intentionally designed to simulate the real w
 
 This project demonstrates practical skills in ticket management, structured troubleshooting, technical documentation, SLA awareness, and professional customer communication—core competencies for IT Support and Help Desk roles.
 
-# Sysdesk Help Desk Ticketing System
+# SysDesks Help Desk Ticketing System
 SysDesks is a browser-based IT help desk simulator where you learn support work by doing it. This IT support practice tool gives you help desk practice tickets in a connected service desk instead of asking you to memorize isolated answers. You claim a ticket, look the user up in a simulated company directory, remote into the Windows machine they are sitting at, open Event Viewer or Device Manager, run commands like ipconfig and nslookup in a working terminal, call the user back over AI voice, apply an authorized fix, and document what you did.
 
 Built and operated a complete ticketing environment using Sysdesk to simulate real Help Desk / Service Desk workflows. Configured the system with appropriate categories, priority levels, SLAs, and assignment rules. Handled a series of realistic support tickets covering Windows troubleshooting, Active Directory, Microsoft 365, networking, and hardware issues. Every ticket includes structured notes, root-cause analysis, resolution steps, and verification evidence.
