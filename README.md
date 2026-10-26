@@ -8,6 +8,21 @@ The projects in this portfolio are intentionally designed to simulate the real w
 
 This project demonstrates practical skills in ticket management, structured troubleshooting, technical documentation, SLA awareness, and professional customer communication—core competencies for IT Support and Help Desk roles.
 
+## 🛠️ Technical Skills
+
+**Active Directory & Group Policy**  
+- Lab experience with Active Directory (Forests, Domains, OUs, users & groups)  
+- Created and tested Group Policy Objects (GPOs) for password policies and desktop settings  
+- Familiar with AD + DNS relationship and basic troubleshooting  
+
+**Other Skills**  
+- Windows 10/11 & Windows Server  
+- Networking fundamentals (DNS, DHCP, TCP/IP)  
+- Hardware & software troubleshooting  
+- Microsoft 365 / Office support  
+- Virtualization (VirtualBox)  
+- Customer support & ticketing
+
 # SysDesks Help Desk Ticketing System
 SysDesks is a browser-based IT help desk simulator where you learn support work by doing it. This IT support practice tool gives you help desk practice tickets in a connected service desk instead of asking you to memorize isolated answers. You claim a ticket, look the user up in a simulated company directory, remote into the Windows machine they are sitting at, open Event Viewer or Device Manager, run commands like ipconfig and nslookup in a working terminal, call the user back over AI voice, apply an authorized fix, and document what you did.
 
@@ -76,18 +91,5 @@ This project demonstrates practical, job-ready Help Desk skills: turning user pr
 **Technologies / Tools:** Sysdesk  
 **Focus Areas:** IT Support • Help Desk Operations • Ticket Management • Technical Documentation
 
-## 🛠️ Technical Skills
 
-**Active Directory & Group Policy**  
-- Lab experience with Active Directory (Forests, Domains, OUs, users & groups)  
-- Created and tested Group Policy Objects (GPOs) for password policies and desktop settings  
-- Familiar with AD + DNS relationship and basic troubleshooting  
-
-**Other Skills**  
-- Windows 10/11 & Windows Server  
-- Networking fundamentals (DNS, DHCP, TCP/IP)  
-- Hardware & software troubleshooting  
-- Microsoft 365 / Office support  
-- Virtualization (VirtualBox)  
-- Customer support & ticketing
  
