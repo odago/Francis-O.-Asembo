@@ -18,7 +18,8 @@ This project demonstrates practical skills in ticket management, structured trou
 **Other Skills**  
 - Windows 10/11 & Windows Server
   ### Windows Server Setup and Install
-![Windows Server](https://github.com/odago/Francis-O.-Asembo/blob/main/Windows%20Server.png)  
+![Install](https://github.com/odago/Francis-O.-Asembo/blob/main/Server%20Install.png)
+![Windows Server](https://github.com/odago/Francis-O.-Asembo/blob/main/Windows%20Server.png)
 - Networking fundamentals (DNS, DHCP, TCP/IP)  
 - Hardware & software troubleshooting  
 - Microsoft 365 / Office support  
