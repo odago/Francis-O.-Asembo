@@ -75,4 +75,19 @@ This project demonstrates practical, job-ready Help Desk skills: turning user pr
 
 **Technologies / Tools:** Sysdesk  
 **Focus Areas:** IT Support • Help Desk Operations • Ticket Management • Technical Documentation
+
+## 🛠️ Technical Skills
+
+**Active Directory & Group Policy**  
+- Lab experience with Active Directory (Forests, Domains, OUs, users & groups)  
+- Created and tested Group Policy Objects (GPOs) for password policies and desktop settings  
+- Familiar with AD + DNS relationship and basic troubleshooting  
+
+**Other Skills**  
+- Windows 10/11 & Windows Server  
+- Networking fundamentals (DNS, DHCP, TCP/IP)  
+- Hardware & software troubleshooting  
+- Microsoft 365 / Office support  
+- Virtualization (VirtualBox)  
+- Customer support & ticketing
  
