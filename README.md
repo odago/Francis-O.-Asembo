@@ -16,7 +16,9 @@ This project demonstrates practical skills in ticket management, structured trou
 - Familiar with AD + DNS relationship and basic troubleshooting  
 
 **Other Skills**  
-- Windows 10/11 & Windows Server  
+- Windows 10/11 & Windows Server
+  ### Windows Server setup and Install
+![SLA Config](screenshots/05-sla-config.png)  
 - Networking fundamentals (DNS, DHCP, TCP/IP)  
 - Hardware & software troubleshooting  
 - Microsoft 365 / Office support  
