@@ -72,7 +72,7 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 ### Resolution & Closure Process
 ![Ticket Resolution](https://github.com/odago/Francis-O.-Asembo/blob/main/desktop%20background%20solution.png)
 
-### SLA / Priority Configuration
+### SLA / Priority Configuration Achievement
 ![SLA Config](screenshots/05-sla-config.png)
 
 ## Sample Ticket Summary
