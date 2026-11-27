@@ -66,8 +66,8 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 ### Ticket Creation & Categorization
 ![Ticket Creation](https://github.com/odago/Francis-O.-Asembo/blob/main/Ticket%20Creation%20and%20Categorization.png)
 
-### Detailed Ticket View with Notes & Status Updates
-![Ticket Details](https://github.com/odago/Francis-O.-Asembo/blob/3840127570e81d1fcf523e19a6654551565a6d90/Screenshot%202026-09-29%20171725.png)
+### Northline Service Recognition
+![Ticket Details](https://github.com/odago/Francis-O.-Asembo/blob/main/Achivement.png)
 
 ### Resolution & Closure Process
 ![Ticket Resolution](https://github.com/odago/Francis-O.-Asembo/blob/main/desktop%20background%20solution.png)
