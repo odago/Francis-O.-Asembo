@@ -79,9 +79,7 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 
 | Ticket ID | Issue Type              | Priority | Status   | Key Actions Taken                          |
 |-----------|-------------------------|----------|----------|--------------------------------------------|
-| INC-001   | Account Lockout         | High     | Resolved | Verified identity, unlocked account, reset password policy check |
-| INC-002   | Outlook Sync Failure    | Medium   | Resolved | Cleared cache, repaired Outlook profile    |
-| INC-003   | Network Drive Mapping   | Medium   | Resolved | Checked permissions, remapped drive        |
+|INC8573721 | Desktop Backgound       | P4 Low   | Resolved | Started Remote session, Changed desktop background |
 | ...       | ...                     | ...      | ...      | ...                                        |
 
 
