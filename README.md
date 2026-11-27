@@ -73,7 +73,7 @@ This project shows how I configured and used **Sysdesk** to deliver organized, p
 ![Ticket Resolution](https://github.com/odago/Francis-O.-Asembo/blob/main/desktop%20background%20solution.png)
 
 ### SLA / Priority Configuration Achievement
-![SLA Config](screenshots/05-sla-config.png)
+![SLA Config](https://github.com/odago/Francis-O.-Asembo/blob/main/Certificate.png)
 
 ## Sample Ticket Summary
 
